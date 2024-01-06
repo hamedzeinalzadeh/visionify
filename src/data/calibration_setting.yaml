@@ -1,0 +1,8 @@
+single_camera_path: /dev/v4l/by-path/pci-0000:00:14.0-usb-0:6:1.0-video-index0
+camera0_path: /dev/v4l/by-path/pci-0000:00:14.0-usb-0:6:1.0-video-index0
+camera1_path: /dev/v4l/by-path/pci-0000:00:14.0-usb-0:8:1.0-video-index0
+frame_width: 640
+frame_height: 480
+checkerboard_box_size_scale : 4
+checkerboard_rows: 4
+checkerboard_columns: 4
